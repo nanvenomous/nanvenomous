@@ -11,80 +11,76 @@ Aptitude is a soft score, 3 being highest proficiency, takes into account time s
 
 Aptitude | Skill
 --- | ---
-3 | Python, [Django](https://www.djangoproject.com/)
 3 | Typescript, [React Native](https://facebook.github.io/react-native/) & [Redux](https://redux.js.org/)
+3 | Python, [Django](https://www.djangoproject.com/)
 3 | Shell (BASH, [xonsh](https://xon.sh/))
 3 | Design & [SolidWorks](https://www.solidworks.com/)
-3 | Test Driven Development
-3 | Teamwork, Agile, Pair Programming
+3 | Teamwork, Pair Programming, Test Driven Development
 3 | git
-3 | vim
+3 | vim :)
 2 | Golang
-2 | Java
+2 | Objective C, Swift, iOS
+2 | Java, Kotlin, Android
 2 | Physical analysis: stress, strain, dynamic systems
 2 | [Jenkins](https://jenkins.io/)
 2 | Static and dynamic fluid analysis
-2 | SQL
-1 | C
+1 | C, Arduino
+1 | SQL
 1 | Ruby
-1 | Arduino
 1 | Applied thermodynamics (conductive, convective, radiative heat transfer)
-1 | Matlab
 
 # Experience
 
 Mobile Developer | [General Motors](https://www.gm.com/) | Detroit, MI | 3/19-Present
 --- | --- | --- | ---
-* Key Contributor, MyBrand (ex. [MyCheverolet](https://play.google.com/store/apps/details?id=com.gm.chevrolet.nomad.ownership&hl=en_US), [MyCadillac](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership&hl=en_US)..) apps as a part of a world class software team
-* Test drove quality product increment on [Remote Key-fob](https://www.chevrolet.com/connectivity-and-technology/my-chevrolet-app), Trailering, & an unreleased product
-* Automation highlight: BlackDuck security scan processor (Django app)
-	* reduced release time by a factor of days & increased dev quality of life
-* Migrated Jenkins build pipeline including validation, pull request, security scans & automerge jobs to production servers
-* Achieving hybrid Synergy between Typescript, Java, Kotlin, Objective C, and Swift in a very large codebase
+* Key Contributor [MyCheverolet](https://play.google.com/store/apps/details?id=com.gm.chevrolet.nomad.ownership&hl=en_US), [MyCadillac](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership&hl=en_US)... apps on a world class software team ~ 5 million users
+* Quality product increment on [Remote Key-fob](https://www.chevrolet.com/connectivity-and-technology/my-chevrolet-app) & an unreleased product tied to [Hummer EV](https://www.gmc.com/electric/hummer-ev)
+	* Mastery scaling stateful application with balanced reduction/selection logic & a sensible store
+	* Rapidly consume REST APIs, track down requirements, ask questions, refactor when necessary
+	* Synergy & bridging between Typescript, Java, Kotlin, Objective C, Swift in a large codebase
+* Continuously driving efficiency & quality through automation and best practices
+	* [BlackDuck](https://www.blackducksoftware.com/) security scan processor (Django) reduced release time by days
+	* Production [Jenkins](https://www.jenkins.io/) pipeline maintenance for validation, PR, & security scans
+	* Many other tools (manage hybrid containers, monitor builds, etc)
 * Contacts:
-	* Justin Dombecki justin.dombecki@gm.com
-	* Galen Erickson galen.erickson@gm.com
-	* Steve Ross steven.ross@gm.com
+	* Justin Dombecki justin.dombecki@gm.com (dev lead)
+	* Galen Erickson galen.erickson@gm.com (teammate)
+	* Steve Ross steven.ross@gm.com (original manager)
 
 Electrification Analysis | [General Motors](https://www.gm.com/) | Warren, MI | 10/18-3/19
 --- | --- | --- | ---
-* Worked with research and development to provide MIMO differential systems modeling application
-	* developed model to convert heat load to temperature response (leveraged open source)
+* Worked with R&D to provide MIMO differential systems modeling application
+	* developed model to convert heat load to temperature response
+	* built skills using pandas, numpy, scikit-learn
 * Started group project management web application (Django framework)
-	* Administered database (SQL) and migrated from excel
-	* built UI (HTML, CSS, Google MDL)
+	* migrated from excel to django SQLite database
+	* built UI (HTML, CSS, Django Templates & Forms)
 * Set up corporate internal Ubuntu virtual machine with package for proxy authentication
 * Contacts:
-	* Shailendra Kaushik shailendra.kaushik@gm.com
-	* Chih-Cheng Hsu chihcheng.hsu@gm.com
-	* Sam Liu sam.t.liu@gm.com
+	* Sam Liu sam.t.liu@gm.com (manager)
+	* Chih-Cheng Hsu chihcheng.hsu@gm.com (tech lead)
 
 Autonomous Vehicle and Battery Systems | [General Motors](https://www.gm.com/) | Warren, MI | 10/17-6/18
 --- | --- | --- | ---
 * Lead software integration engineer for [developmental wireless technology](https://www.linkedin.com/posts/general-motors_today-we-announced-that-our-future-evs-will-activity-6709433343278112768-hwqa)
-	* Tool for statistical/mathematical analysis of battery monitoring systems (Python)
-	* manipulated large datasets, broke down processing to modular steps
-	* Managed repository and software changes for a team of 3 (git)
-* In-pack testing for data collection (harnessing of electronics, working near high voltage hardware)
+	* Modular tool for statistical/mathematical analysis of hight voltage battery monitoring systems
+	* gathered & processed large (but not real-time) datasets sampled every 100ms, to verify system integrity
+	* set up simple CI/CD for a team of 3 with PR hooks, builds & unit tests
 * Submitted and defended patent for system monitoring communication devices
 * Contacts:
-	* Tao Wang tao.1.wang@gm.com
-	* Ted Kim theodore.kim@gm.com
-	* Michael Barker michael.p.barker@gm.com
+	* Tao Wang tao.1.wang@gm.com (manager)
+	* Ted Kim theodore.kim@gm.com (technical lead)
 
 [Other Experience at GM](./rsrc/other_experience.md) (available web only)
 
 # Interests
-continuously updating with links to related personal projects or academic work
 
-* [Unix-like Systems](https://github.com/mrgarelli/unix) (by the way I use [Arch](https://www.archlinux.org/))
-* [Automation](https://github.com/mrgarelli/SysPy)
-* [Mechanical Design](rsrc/design.md)
-* [Embedded Software](https://github.com/mrgarelli/qmk_firmware/blob/dev/readme.md)
-* Machine Learning
-* 3D Printing
-* Astrophysics
-* Quantum Computing
+* Data Structures & Algorithms ([leet code!](https://github.com/mrgarelli/dataStructuresAlgorithms))
+* Unix Systems ([installation](https://github.com/mrgarelli/InstallArch) | [configuration](https://github.com/mrgarelli/unix))
+* Automation (cli's in Go using [Cobra](https://github.com/spf13/cobra) ex [bt](https://github.com/mrgarelli/bt) | python [cli helper library](https://github.com/mrgarelli/SysPy))
+* Bots ([ping discord from Golang](https://github.com/mrgarelli/chord) | [hotsprings reservations](https://github.com/mrgarelli/StrawberryBotSprings) | [ikon reservations](https://github.com/mrgarelli/PowBot))
+* Mechanical Design ([internship braden boards](rsrc/design.md))
+* Embedded Software ([olkb plank build & flash](https://github.com/mrgarelli/qmk_firmware/blob/dev/readme.md))
 
 # Education
 
