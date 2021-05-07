@@ -4,19 +4,6 @@ Matthew Garelli
 mgarelli@alumni.stanford.edu
 ```
 
-# Education
-
-[Stanford University](https://www.stanford.edu/) | Stanford, CA | 9/12-12/16
---- | --- | ---
-* Bachelor of Science - Mechanical Engineering
-* [Projects](./rsrc/university.md)
-* Electives
-	* Programming Abstractions
-	* Micro/Nano Electro Mechanical Systems
-	* Thermal Combustion Modeling
-	* Experimental Stress Analysis
-* NCAA Division I [Scholarship Athlete](https://gostanford.com/sports/wrestling/roster/matt-garelli/6123)
-
 # Experience
 
 Mobile Developer | [General Motors](https://www.gm.com/) | Detroit, MI | (~2 years) 3/19-Present
@@ -48,7 +35,16 @@ Battery Systems Lead Integration Engineer | [General Motors](https://www.gm.com/
 	* Set up simple [CI/CD](https://en.wikipedia.org/wiki/CI/CD) for a team of 3 with PR hooks, builds, & unit tests
 * Submitted and defended patent for system monitoring communication devices
 
-[Other Experience at GM](./rsrc/other_experience.md) (available web only)
+[Other Experience at GM](https://github.com/mrgarelli/mrgarelli/blob/master/rsrc/other_experience.md)
+
+# Education
+
+[Stanford University](https://www.stanford.edu/) | Stanford, CA | 9/12-12/16
+--- | --- | ---
+* Bachelor of Science - Mechanical Engineering
+* [Projects](https://github.com/mrgarelli/mrgarelli/blob/master/rsrc/university.md) included Bio-inspired design, Robotics analysis, and a Human Research Study
+* Electives included Programming Abstractions, Micro/Nano Electro Mechanical Systems, Thermal Combustion Modeling, Experimental Stress Analysis
+* NCAA Division I [Scholarship Athlete](https://gostanford.com/sports/wrestling/roster/matt-garelli/6123)
 
 # Skills
 
