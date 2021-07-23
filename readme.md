@@ -2,6 +2,7 @@
 Matthew Garelli
 (630) 544 - 7770
 mgarelli@alumni.stanford.edu
+Portland, OR
 ```
 
 # Experience
@@ -23,15 +24,15 @@ Electrification Analyst | [General Motors](https://www.gm.com/) | Warren, MI | (
 --- | --- | --- | ---
 * Modeled temperature response from heat load inputs, reducing expensive & timely battery pack testing
 	* Worked with R&D to create & tune [MIMO](https://en.wikipedia.org/wiki/MIMO) differential systems modeling application
-* Developed group project management web application (Django), providing reliable & accessible project statuses
+* Developed group project management web application (Django), providing accessible project statuses
 	* Migrated from Excel to django SQLite database and built UI (HTML, CSS, Django Templates & Forms)
 * Administered corporate internal Ubuntu virtual machine with package for proxy authentication
 
 Battery Systems Lead Integration Engineer | [General Motors](https://www.gm.com/) | Warren, MI | (~8 mo) 10/17-6/18
 --- | --- | --- | ---
-* Lead software integration engineer for [wireless battery monitoring system](https://www.linkedin.com/posts/general-motors_today-we-announced-that-our-future-evs-will-activity-6709433343278112768-hwqa), saving cost on every GM electric vehicle
-	* Implemented modular tool for statistical/mathematical analysis of safety-critical high voltage monitoring systems
-	* Gathered & processed large datasets sampled every 100ms, to correlate external factors with system integrity
+* Software integration engineer for [wireless battery monitoring system](https://www.linkedin.com/posts/general-motors_today-we-announced-that-our-future-evs-will-activity-6709433343278112768-hwqa), saving cost on every GM electric vehicle
+	* Implemented tool for statistical/mathematical analysis of safety-critical high voltage monitoring systems
+	* Processed large datasets sampled every 100ms, to correlate external factors with system integrity
 	* Set up simple [CI/CD](https://en.wikipedia.org/wiki/CI/CD) for a team of 3 with PR hooks, builds, & unit tests
 * Submitted and defended patent for system monitoring communication devices
 
