@@ -2,7 +2,7 @@
 Matthew Garelli
 (630) 544 - 7770
 mgarelli@alumni.stanford.edu
-Portland, OR
+Chicago, IL
 ```
 
 # Experience
@@ -38,6 +38,8 @@ Battery Systems Lead Integration Engineer | [General Motors](https://www.gm.com/
 
 [Other Experience at GM](https://github.com/mrgarelli/mrgarelli/blob/master/rsrc/other_experience.md)
 
+<div style="page-break-after: always;"></div>
+
 # Education
 
 [Stanford University](https://www.stanford.edu/) | Stanford, CA | 9/12-12/16
@@ -52,11 +54,11 @@ Battery Systems Lead Integration Engineer | [General Motors](https://www.gm.com/
 Area |  Technologies
 --- | ---
 Mobile Frontend | Typescript, [React Native](https://facebook.github.io/react-native/) & [Redux](https://redux.js.org/), Objective C, Swift, iOS, Java, Kotlin, Android
-Full Stack Web | Python, [Django](https://www.djangoproject.com/), (peripheral experience with SQL)
-Shell & System | BASH, Golang, [xonsh](https://xon.sh/), (novice experience in C & Arduino), vim :)
+Full Stack Web | [Django](https://www.djangoproject.com/) (python), [ent](https://github.com/ent/ent/tree/38925b61343766026056c7fc841ed635a95274ae) (golang), React
+Shell & System | BASH, Linux, [xonsh](https://xon.sh/), (novice experience in C & Arduino), vim :)
 Statistical Analysis | numpy, pandas, matplotlib, (novice experience scikit-learn, regression, model-tuning)
 Mechanical | Design, [SolidWorks](https://www.solidworks.com/), stress/strain, control systems, fluid analysis, thermodynamics
-CI/CD | git, [Jenkins](https://jenkins.io/), (basics of Docker)
+CI/CD | git, [Jenkins](https://jenkins.io/), Docker
 
 # Interests
 
