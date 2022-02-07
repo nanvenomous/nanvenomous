@@ -2,15 +2,21 @@
 Matthew Garelli
 (630) 544 - 7770
 mgarelli@alumni.stanford.edu
-Chicago, IL
+Austin, TX
 ```
 
 # Experience
 
-Mobile Developer | [General Motors](https://www.gm.com/) | Detroit, MI | (~2 years) 3/19-Present
+Software Developer, AI, ML, Data | [General Motors](https://www.gm.com/) |  Remote / Austin, TX | (3 mo) 11/21-Present
+--- | --- | --- | ---
+* Managed large-scale data pipelines in python via Apache Airflow
+* Write, review, and Merge high quality code in python
+
+Mobile Developer | [General Motors](https://www.gm.com/) |  Remote / Detroit, MI | (~2.7 years) 3/19-11/21
 --- | --- | --- | ---
 * Developed features including [Digital Key](https://www.gm-trucks.com/exclusive-gmc-hummer-ev-first-gm-vehicle-to-use-digital-keys/) & [Remote Key-fob](https://www.chevrolet.com/connectivity-and-technology/my-chevrolet-app) for GM phone apps ([MyCheverolet](https://play.google.com/store/apps/details?id=com.gm.chevrolet.nomad.ownership&hl=en_US), [MyCadillac](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership&hl=en_US), etc), providing a positive user experience for ~5 million users
 	* Scaled stateful applications with balanced reduction/selection logic to produce maintainable, clean code
+  * Solely redesigned & integration tested user state machine to prepare for launch of keyless entry
 	* Bridged between Android \<-\> React-Native \<-\> iOS to leverage React-Native & latest native technologies
 	* Demonstrated best practices in REST APIs consumption, object oriented design, & executing refactors
 	* Contributed organically to services & UI libraries, utilized across GM phone & web applications
@@ -61,7 +67,7 @@ Mechanical | Design, [SolidWorks](https://www.solidworks.com/), stress/strain, c
 CI/CD | git, [Jenkins](https://jenkins.io/), Docker
 
 # Interests
-
+* Modern compiled languages like go and rust (though I don't have much experience with rust)
 * Data Structures & Algorithms ([leet code!](https://github.com/mrgarelli/dataStructuresAlgorithms))
 * Unix Systems ([installation](https://github.com/mrgarelli/InstallArch) | [configuration](https://github.com/mrgarelli/unix))
 * Automation (cli's in Go using [Cobra](https://github.com/spf13/cobra) ex [bt](https://github.com/mrgarelli/bt) | python [cli helper library](https://github.com/mrgarelli/SysPy))
