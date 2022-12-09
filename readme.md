@@ -7,7 +7,19 @@ Austin, TX
 
 # Experience
 
-Software Developer, AI, ML, Data | [General Motors](https://www.gm.com/) |  Remote / Austin, TX | (3 mo) 11/21-Present
+Sole Developer | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
+--- | --- | --- | ---
+* created end to end project management tool for power user & users
+
+Sole Developer | [Adium Ads](https://chrome.google.com/webstore/detail/adium-get-paid-to-click-a/gooakpoploffnbkdcieklaebnanbdonp) |  Remote | Ongoing
+--- | --- | --- | ---
+* created end to end advertisement service to connect users to products they want
+
+Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (8 mo) 3/22-Present
+--- | --- | --- | ---
+* In six months I worked on a fast paced team to build and deploy waste management software to fulfillment centers around the world
+
+Software Developer, AI, ML, Data | [General Motors](https://www.gm.com/) |  Remote / Austin, TX | (4 mo) 11/21-3/22
 --- | --- | --- | ---
 * Managed large-scale data pipelines in python via Apache Airflow
 * Write, review, and Merge high quality code in python
