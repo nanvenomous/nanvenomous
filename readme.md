@@ -9,11 +9,15 @@ Austin, TX
 
 Sole Developer | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
 --- | --- | --- | ---
-* created end to end project management tool for power user & users
+* created end to end project management tool with valuable features for power users
+* The minimalist way to run an agile team
+* conveniently start tasks, track your work, and scope difficult problems right from your terminal
+* bring your own command line editor
 
 Sole Developer | [Adium Ads](https://chrome.google.com/webstore/detail/adium-get-paid-to-click-a/gooakpoploffnbkdcieklaebnanbdonp) |  Remote | Ongoing
 --- | --- | --- | ---
 * created end to end advertisement service to connect users to products they want
+* learn more about [how we want to revolutionize ads](https://www.adiumads.com/welcome)
 
 Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (8 mo) 3/22-Present
 --- | --- | --- | ---
@@ -72,17 +76,16 @@ Battery Systems Lead Integration Engineer | [General Motors](https://www.gm.com/
 Area |  Technologies
 --- | ---
 Mobile Frontend | Typescript, [React Native](https://facebook.github.io/react-native/) & [Redux](https://redux.js.org/), Objective C, Swift, iOS, Java, Kotlin, Android
-Full Stack Web | [Django](https://www.djangoproject.com/) (python), [ent](https://github.com/ent/ent/tree/38925b61343766026056c7fc841ed635a95274ae) (golang), React
-Shell & System | BASH, Linux, [xonsh](https://xon.sh/), (novice experience in C & Arduino), vim :)
-Statistical Analysis | numpy, pandas, matplotlib, (novice experience scikit-learn, regression, model-tuning)
+Backend Development | Golang [gin](https://github.com/gin-gonic/gin) services with [ent](https://github.com/ent/ent/tree/38925b61343766026056c7fc841ed635a95274ae) SQL ORM and [mongodb driver](https://github.com/mongodb/mongo-go-driver), [Django](https://www.djangoproject.com/)
+Shell & System | BASH, Linux, EC2
+Statistical Analysis | numpy, pandas, matplotlib, scikit-learn, regression, model-tuning
 Mechanical | Design, [SolidWorks](https://www.solidworks.com/), stress/strain, control systems, fluid analysis, thermodynamics
-CI/CD | git, [Jenkins](https://jenkins.io/), Docker
+CI/CD | git, Docker, [Jenkins](https://jenkins.io/)
 
 # Interests
-* Modern compiled languages like go and rust (though I don't have much experience with rust)
+* Modern compiled languages like go and rust
 * Data Structures & Algorithms ([leet code!](https://github.com/mrgarelli/dataStructuresAlgorithms))
 * Unix Systems ([installation](https://github.com/mrgarelli/InstallArch) | [configuration](https://github.com/mrgarelli/unix))
-* Automation (cli's in Go using [Cobra](https://github.com/spf13/cobra) ex [bt](https://github.com/mrgarelli/bt) | python [cli helper library](https://github.com/mrgarelli/SysPy))
 * Bots ([ping discord from Golang](https://github.com/mrgarelli/chord) | [hot springs reservations](https://github.com/mrgarelli/StrawberryBotSprings) | [ikon reservations](https://github.com/mrgarelli/PowBot))
 * Mechanical Design ([internship braden boards](rsrc/design.md))
-* Embedded Software ([olkb planck build & flash](https://github.com/mrgarelli/qmk_firmware))
+* Embedded Software ([olkb planck build & flash](https://github.com/nanvenomous/tasty_poison))
