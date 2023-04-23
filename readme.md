@@ -7,19 +7,25 @@ Austin, TX
 
 # Experience
 
-Sole Developer | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
+Founding Engineer | Clauseout |  Remote | Ongoing
 --- | --- | --- | ---
-* created end to end project management tool with valuable features for power users
-* The minimalist way to run an agile team
-* conveniently start tasks, track your work, and scope difficult problems right from your terminal
-* bring your own command line editor
+* Working on a team of ~8 (2 developers) with a tight deadline of 3 weeks to deploy a full stack web application
+* Building highly concurrent systems to scrape, request, and persist political data from a variety of sources
+* Participating in [Chicago Booth](https://www.chicagobooth.edu/) accelerator
 
-Sole Developer | [Adium Ads](https://chrome.google.com/webstore/detail/adium-get-paid-to-click-a/gooakpoploffnbkdcieklaebnanbdonp) |  Remote | Ongoing
+Creator | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
 --- | --- | --- | ---
-* created end to end advertisement service to connect users to products they want
-* learn more about [how we want to revolutionize ads](https://www.adiumads.com/welcome)
+* Created end-to-end, [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) project management tool to enable technical leaders to manager their own projects
+* Participated in [NYU STERN](https://www.stern.nyu.edu/) startup bootcamp [certificate](rsrc/nyu_certificate_bootcamp_accelerator.png)
+* Created a user facing systems application / command line interface in Go to interact with the product queue
+* Created a REST-ful service in Go using [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) and deployed to [AWS EC2](https://aws.amazon.com/ec2/)
 
-Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (8 mo) 3/22-Present
+Founding Engineer | [Adium Ads](https://chrome.google.com/webstore/detail/adium-get-paid-to-click-a/gooakpoploffnbkdcieklaebnanbdonp) |  Remote | (6 mo) intermittent-3/23
+--- | --- | --- | ---
+* Created end to end advertisement service to connect users to products they want
+* Created a chrome extension 
+
+Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (10 mo) 3/22-1/23
 --- | --- | --- | ---
 * In six months I worked on a fast paced team to build and deploy waste management software to fulfillment centers around the world
 
@@ -75,17 +81,19 @@ Battery Systems Lead Integration Engineer | [General Motors](https://www.gm.com/
 
 Area |  Technologies
 --- | ---
+Backend | I have built several concurrent services in [Go](https://go.dev/) with [gin](https://github.com/gin-gonic/gin) and [net/http](https://pkg.go.dev/net/http) [ent](https://github.com/ent/ent/tree/38925b61343766026056c7fc841ed635a95274ae) SQL ORM and [mongodb driver](https://github.com/mongodb/mongo-go-driver), [Django](https://www.djangoproject.com/)
+Data | I build fast, generic, and memory safe [NoSQL](https://en.wikipedia.org/wiki/NoSQL) data layers in [Go](https://go.dev/) with [mongodb driver](https://github.com/mongodb/mongo-go-driver), SQL experience is mainly ORM's such as [ent](https://github.com/ent/ent) in Go & [Django](https://www.djangoproject.com/) in python
 Mobile Frontend | Typescript, [React Native](https://facebook.github.io/react-native/) & [Redux](https://redux.js.org/), Objective C, Swift, iOS, Java, Kotlin, Android
-Backend Development | Golang [gin](https://github.com/gin-gonic/gin) services with [ent](https://github.com/ent/ent/tree/38925b61343766026056c7fc841ed635a95274ae) SQL ORM and [mongodb driver](https://github.com/mongodb/mongo-go-driver), [Django](https://www.djangoproject.com/)
-Shell & System | BASH, Linux, EC2
 Statistical Analysis | numpy, pandas, matplotlib, scikit-learn, regression, model-tuning
 Mechanical | Design, [SolidWorks](https://www.solidworks.com/), stress/strain, control systems, fluid analysis, thermodynamics
-CI/CD | git, Docker, [Jenkins](https://jenkins.io/)
+System / Deployment | [Linux](https://github.com/nanvenomous/InstallArch), [Docker](https://www.docker.com/), [AWS EC2](https://aws.amazon.com/ec2/), git, [Jenkins](https://jenkins.io/)
 
 # Interests
-* Modern compiled languages like go and rust
+* Modern compiled languages (like [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/))
+    * I build everything I can in Go. The ease of concurrency, proficiency as a systems language, rich set of libraries, strict packaging system, fast build times, and amazing editor support make it an easy choice
+    * I would drop everything to learn Rust. Currently 1/3 through [rustlings](https://github.com/rust-lang/rustlings). The speed makes it amazing for layer-1 web3 apps, compile time gurantees mean fewer bugs in production, and lack of a garbage collector makes it the ideal choice for web assembly libraries like [yew](https://github.com/yewstack/yew)
+* Unix Systems, See how [I build Arch from instructions](https://github.com/mrgarelli/InstallArch), and for fun check out [my dotfiles](https://github.com/mrgarelli/unix)
 * Data Structures & Algorithms ([leet code!](https://github.com/mrgarelli/dataStructuresAlgorithms))
-* Unix Systems ([installation](https://github.com/mrgarelli/InstallArch) | [configuration](https://github.com/mrgarelli/unix))
 * Bots ([ping discord from Golang](https://github.com/mrgarelli/chord) | [hot springs reservations](https://github.com/mrgarelli/StrawberryBotSprings) | [ikon reservations](https://github.com/mrgarelli/PowBot))
 * Mechanical Design ([internship braden boards](rsrc/design.md))
 * Embedded Software ([olkb planck build & flash](https://github.com/nanvenomous/tasty_poison))
