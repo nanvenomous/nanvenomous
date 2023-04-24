@@ -1,6 +1,5 @@
 ```
 Matthew Garelli
-(630) 544 - 7770
 mgarelli@alumni.stanford.edu
 Austin, TX
 ```
@@ -23,11 +22,14 @@ Creator | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
 Founding Engineer | [Adium Ads](https://chrome.google.com/webstore/detail/adium-get-paid-to-click-a/gooakpoploffnbkdcieklaebnanbdonp) |  Remote | (6 mo) intermittent-3/23
 --- | --- | --- | ---
 * Created end to end advertisement service to connect users to products they want
-* Created a chrome extension 
+* Built and deployed a chrome extension that exchanged money for ad. views and click 
 
 Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (10 mo) 3/22-1/23
 --- | --- | --- | ---
 * In six months I worked on a fast paced team to build and deploy waste management software to fulfillment centers around the world
+* Implemented several large features including Item entry, shipment full CI, design proposal for vendor de-duplication
+* Won Austin wide hackathon with an MVP to allow users to go from a picture of a product or label to an identification number (team of 3)
+* Built and deployed a developer facing meta-repository tool called `rio` to make working with multiple sub-repositories a breeze
 
 Software Developer, AI, ML, Data | [General Motors](https://www.gm.com/) |  Remote / Austin, TX | (4 mo) 11/21-3/22
 --- | --- | --- | ---
