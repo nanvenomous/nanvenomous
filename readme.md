@@ -6,7 +6,7 @@ Austin, TX
 
 # Experience
 
-CTO | [Clauseout](https://clauseout.com/) |  Remote | Ongoing
+CTO | [Clauseout](https://clauseout.com/) |  Remote | 4/23-Present
 --- | --- | --- | ---
 * Working on a team of ~6 to bring democracy direct to consumers
 * Built highly concurrent systems to scrape, request, and persist political data from a variety of sources
@@ -14,17 +14,12 @@ CTO | [Clauseout](https://clauseout.com/) |  Remote | Ongoing
 * Participated in [Chicago Booth](https://www.chicagobooth.edu/) accelerator
 * Received an investment from [Antler Nordics](https://www.antler.co/)
 
-Creator | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
+Creator | [Devsquadron](https://developersquadron.com/) |  Remote | (3 mo) 1-4/23
 --- | --- | --- | ---
 * Created end-to-end, [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) project management tool to enable technical leaders to manager their own projects
-* Participated in [NYU STERN](https://www.stern.nyu.edu/) startup bootcamp [certificate](rsrc/nyu_certificate_bootcamp_accelerator.png)
 * Created a user facing systems application / command line interface in Go to interact with the product queue
 * Created a REST-ful service in Go using [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) and deployed to [AWS EC2](https://aws.amazon.com/ec2/)
-
-Founding Engineer | [Adium Ads](https://chrome.google.com/webstore/detail/adium-get-paid-to-click-a/gooakpoploffnbkdcieklaebnanbdonp) |  Remote | (6 mo) intermittent-3/23
---- | --- | --- | ---
-* Created end to end advertisement service to connect users to products they want
-* Built and deployed a chrome extension that exchanged money for ad. views and click 
+* Participated in [NYU STERN](https://www.stern.nyu.edu/) startup bootcamp [certificate](rsrc/nyu_certificate_bootcamp_accelerator.png)
 
 Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (10 mo) 3/22-1/23
 --- | --- | --- | ---
