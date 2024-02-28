@@ -6,11 +6,13 @@ Austin, TX
 
 # Experience
 
-Founding Engineer | Clauseout |  Remote | Ongoing
+CTO | [Clauseout](https://clauseout.com/) |  Remote | Ongoing
 --- | --- | --- | ---
-* Working on a team of ~8 (2 developers) with a tight deadline of 3 weeks to deploy a full stack web application
-* Building highly concurrent systems to scrape, request, and persist political data from a variety of sources
-* Participating in [Chicago Booth](https://www.chicagobooth.edu/) accelerator
+* Working on a team of ~6 to bring democracy direct to consumers
+* Built highly concurrent systems to scrape, request, and persist political data from a variety of sources
+* Built a private and secure voting system
+* Participated in [Chicago Booth](https://www.chicagobooth.edu/) accelerator
+* Received an investment from [Antler Nordics](https://www.antler.co/)
 
 Creator | [Devsquadron](https://developersquadron.com/) |  Remote | Ongoing
 --- | --- | --- | ---
