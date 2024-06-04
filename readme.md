@@ -6,15 +6,22 @@ Austin, TX
 
 # Experience
 
-CTO | [Clauseout](https://clauseout.com/) |  Remote | 4/23-Present
+CTO | [Clauseout](https://clauseout.com/) | Remote | 4/23-Present
 --- | --- | --- | ---
-* Working on a team of ~6 to bring democracy direct to consumers
-* Built highly concurrent systems to scrape, request, and persist political data from a variety of sources
-* Built a private and secure voting system
+* Assembling a team (currently ~8) to demystify legislation, and bring democracy direct to consumers
+* Running a team of 3 highly motivated developers to build a modern [PWA](https://www.google.com/search?q=progressive+web+app) interface into your government
+    * A secure voting system in Go and HTMX with a pleasant UX
+    * Data pipelines in Go to scrape, request, and persist political data from a variety of sources
+    * A web push notification system to alert user's when the government is on the move 
+    * A full AWS and mongodb atlas cloud stack including:
+        * [user authentication](https://www.ory.sh/docs/kratos/ory-kratos-intro)
+        * [authorization access](https://casbin.org/)
+    * A secure and private OIDC system using Go and kratos for users to share demographic info with their representatives
+    * A coherent web component library in Go, HTMX, tailwindcss, [templ](https://github.com/a-h/templ)
 * Participated in [Chicago Booth](https://www.chicagobooth.edu/) accelerator
-* Received an investment from [Antler Nordics](https://www.antler.co/)
+* Secured an investment from [Antler](https://www.antler.co/) the worlds larges day 0 investor, and additional private investment
 
-Creator | [Devsquadron](https://developersquadron.com/) |  Remote | (3 mo) 1-4/23
+Creator | [Devsquadron](https://developersquadron.com/) | Remote | (3 mo) 1-4/23
 --- | --- | --- | ---
 * Created end-to-end, [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) project management tool to enable technical leaders to manager their own projects
 * Created a user facing systems application / command line interface in Go to interact with the product queue
