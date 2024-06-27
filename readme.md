@@ -5,10 +5,12 @@ Austin, TX
 ```
 
 #### I'm a software developer with a proven history of:
-- bringing small business to life with Go (Golang), HTML, HTMX, tailwindcss & vanilla Typescript
-- building teams and also being a great teammate by contributing clean code, participating in code reviews and controlling entropy
-- cloud development (aws, gcp), linux systems, and contanerization (docker & kubernetes)
-- leveraging [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) to build coherent tech stacks & modestly contributing to open source
+- __bringing small business to life__ with Go (Golang), HTML, HTMX, tailwindcss & vanilla Typescript
+- building teams and also being a great teammate by __contributing clean code__, driving __code reviews__ and controlling entropy through __refactors__
+- __cloud development__ (aws, gcp), __linux__ systems, and __contanerization__ (docker & kubernetes)
+- __leveraging [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)__ to build coherent tech stacks & modestly contributing to open source
+- building awesome __web & mobile applications__ (SSR Golang & HTMX, React, React-Native, Django)
+- maintaining fault tolerant __data scraping__ tools, __ingestion pipelines__, and __visualization portals__ in Go and Python  
 
 
 # Experience
