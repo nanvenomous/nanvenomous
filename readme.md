@@ -4,10 +4,19 @@ mgarelli@alumni.stanford.edu
 Austin, TX
 ```
 
+#### I'm a software developer with a proven history of:
+- bringing small business to life with Go (Golang), HTML, HTMX, tailwindcss & vanilla Typescript
+- building teams and also being a great teammate by contributing clean code, participating in code reviews and controlling entropy
+- cloud development (aws, gcp), linux systems, and contanerization (docker & kubernetes)
+- leveraging [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) to build coherent tech stacks & modestly contributing to open source
+
+
 # Experience
 
 CTO | [Clauseout](https://clauseout.com/) | Remote | 4/23-Present
 --- | --- | --- | ---
+
+![clauseout banner](rsrc/clauseout.png)
 * Assembling a team (currently ~8) to demystify legislation, and bring democracy direct to consumers
 * Running a team of 3 highly motivated developers to build a modern [PWA](https://www.google.com/search?q=progressive+web+app) interface into your government
     * A secure voting system in Go and HTMX with a pleasant UX
@@ -30,6 +39,8 @@ Creator | [Devsquadron](https://developersquadron.com/) | Remote | (3 mo) 1-4/23
 
 Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/teams/aft) |  Remote / Austin, TX | (10 mo) 3/22-1/23
 --- | --- | --- | ---
+
+![fulfillment tech](rsrc/fulfillment_tech.png)
 * In six months I worked on a fast paced team to build and deploy waste management software to fulfillment centers around the world
 * Implemented several large features including Item entry, shipment full CI, design proposal for vendor de-duplication
 * Won Austin wide hackathon with an MVP to allow users to go from a picture of a product or label to an identification number (team of 3)
@@ -37,11 +48,16 @@ Software Developer II | [Amazon Fulfillment Tech](https://www.amazon.jobs/en/tea
 
 Software Developer, AI, ML, Data | [General Motors](https://www.gm.com/) |  Remote / Austin, TX | (4 mo) 11/21-3/22
 --- | --- | --- | ---
+
+![gm ai data](rsrc/gm_ai_data.png)
 * Managed large-scale data pipelines in python via Apache Airflow
+* key contributor data migration and ingestion to ultracruise after Cruise merger
 * Write, review, and Merge high quality code in python
 
 Mobile Developer | [General Motors](https://www.gm.com/) |  Remote / Detroit, MI | (~2.7 years) 3/19-11/21
 --- | --- | --- | ---
+
+![gm my brand](rsrc/gm_my_brand.png)
 * Developed features including [Digital Key](https://www.gm-trucks.com/exclusive-gmc-hummer-ev-first-gm-vehicle-to-use-digital-keys/) & [Remote Key-fob](https://www.chevrolet.com/connectivity-and-technology/my-chevrolet-app) for GM phone apps ([MyCheverolet](https://play.google.com/store/apps/details?id=com.gm.chevrolet.nomad.ownership&hl=en_US), [MyCadillac](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership&hl=en_US), etc), providing a positive user experience for ~5 million users
 	* Scaled stateful applications with balanced reduction/selection logic to produce maintainable, clean code
   * Solely redesigned & integration tested user state machine to prepare for launch of keyless entry
