@@ -111,13 +111,3 @@ Mobile Frontend | Typescript, [React Native](https://facebook.github.io/react-na
 Statistical Analysis | numpy, pandas, matplotlib, scikit-learn, regression, model-tuning
 Mechanical | Design, [SolidWorks](https://www.solidworks.com/), stress/strain, control systems, fluid analysis, thermodynamics
 System / Deployment | [Linux](https://github.com/nanvenomous/InstallArch), [Docker](https://www.docker.com/), [AWS EC2](https://aws.amazon.com/ec2/), git, [Jenkins](https://jenkins.io/)
-
-# Interests
-* Modern compiled languages (like [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/))
-    * I build everything I can in Go. The ease of concurrency, proficiency as a systems language, rich set of libraries, strict packaging system, fast build times, and amazing editor support make it an easy choice
-    * I would drop everything to learn Rust. Currently 1/3 through [rustlings](https://github.com/rust-lang/rustlings). The speed makes it amazing for layer-1 web3 apps, compile time gurantees mean fewer bugs in production, and lack of a garbage collector makes it the ideal choice for web assembly libraries like [yew](https://github.com/yewstack/yew)
-* Unix Systems, See how [I build Arch from instructions](https://github.com/mrgarelli/InstallArch), and for fun check out [my dotfiles](https://github.com/mrgarelli/unix)
-* Data Structures & Algorithms ([leet code!](https://github.com/mrgarelli/dataStructuresAlgorithms))
-* Bots ([ping discord from Golang](https://github.com/mrgarelli/chord) | [hot springs reservations](https://github.com/mrgarelli/StrawberryBotSprings) | [ikon reservations](https://github.com/mrgarelli/PowBot))
-* Mechanical Design ([internship braden boards](rsrc/design.md))
-* Embedded Software ([olkb planck build & flash](https://github.com/nanvenomous/tasty_poison))
